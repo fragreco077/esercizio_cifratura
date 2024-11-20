@@ -1,1 +1,1 @@
-La parola cifrata HSNFRGH diventa EPICODE , in base all'alfabeto italiano di 26 lettere ed è basata sul metodo di cifratura di Giulio Cesare ,ogni lettera diventa una lettera 3 gradini più in basso H ->E ,S->P,N->I,F->C,R->O,G->D
+La parola cifrata HSNFRGH diventa EPICODE , in base all'alfabeto italiano di 21 lettere ed è basata sul metodo di cifratura di Giulio Cesare ,ogni lettera diventa una lettera 3 gradini più in basso H ->E ,S->P,N->I,F->C,R->O,G->D
